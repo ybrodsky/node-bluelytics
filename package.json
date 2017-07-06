@@ -1,0 +1,23 @@
+{
+  "name": "node-bluelytics",
+  "version": "1.0.0",
+  "description": "Node module to use the Bluelytics API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dolar",
+    "bluelytics",
+    "api",
+    "dolar",
+    "blue",
+    "argentina"
+  ],
+  "author": "Yael Brodsky",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  }
+}
