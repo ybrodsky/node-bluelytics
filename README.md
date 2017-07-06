@@ -79,10 +79,15 @@ Optionaly you can filter the returned results:
 #### Available filter options are:
 
 `dollar` returns the oficial, blue and last_update values
+
 `euro`  returns the oficial_euro, blue_euro and last_update values
+
 `oficial` returns the oficial and last_update values
+
 `blue` returns the blue and last_update values
+
 `oficial_euro` returns the oficial_euro and last_update values
+
 `blue_euro` returns the blue_euro and last_update values
 
 
