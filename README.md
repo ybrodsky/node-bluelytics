@@ -84,7 +84,3 @@ Optionaly you can filter the returned results:
 `blue` returns the blue and last_update values
 `oficial_euro` returns the oficial_euro and last_update values
 `blue_euro` returns the blue_euro and last_update values
-
-
-### TODO
-- Tests

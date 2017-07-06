@@ -1,6 +1,6 @@
 {
   "name": "node-bluelytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node module to use the Bluelytics API",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,14 @@
   "dependencies": {
     "request": "^2.81.0",
     "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ybrodsky/node-bluelytics.git"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "nock": "^9.0.13",
+    "should": "^11.2.1"
   }
 }
